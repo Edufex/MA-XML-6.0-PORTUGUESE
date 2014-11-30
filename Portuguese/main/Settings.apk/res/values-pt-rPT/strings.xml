@@ -24,7 +24,7 @@
     <string name="account_autostar_label">Gerir início automático</string>
     <string name="account_list">Tudo</string>
     <string name="activate_miui_screensaver">Proteção de ecrã no modo de espera</string>
-    <string name="activating">Activando…</string>
+    <string name="activating">A activar…</string>
     <string name="activity_title_ad">Anúncios</string>
     <string name="activity_title_antispam">Lista de bloqueio</string>
     <string name="activity_title_antivirus">Verificar vírus</string>
@@ -140,7 +140,7 @@ Activar janelas flutuantes?"</string>
     <string name="bluetooth_unlock_change_matched_device">Selecione outro dispositivo</string>
     <string name="bluetooth_unlock_confirm_device_text">Encoste os dispositivos para desbloquear.</string>
     <string name="bluetooth_unlock_delete_device">Excluir este dispositivo</string>
-    <string name="bluetooth_unlock_delete_device_confirm_msg">Ecluir este dispositivo?</string>
+    <string name="bluetooth_unlock_delete_device_confirm_msg">Excluir este dispositivo?</string>
     <string name="bluetooth_unlock_device_matched_text">Usar este dispositivo para desbloquear.</string>
     <string name="bluetooth_unlock_no_matched_device_yet">Nenhum dispositivo detectado</string>
     <string name="bluetooth_unlock_settings_devices_title">Dispositivo</string>
@@ -203,11 +203,11 @@ Activar janelas flutuantes?"</string>
     <string name="button_text_view_file">Arquivo</string>
     <string name="button_text_view_power">Ver energia</string>
     <string name="cache_check_content">%1$d Aplicações, %2$s de cache</string>
-    <string name="cache_header_title">%1$d arquivos em cache ocupando %2$s de espaço</string>
+    <string name="cache_header_title">%1$d arquivos em memória ocupando %2$s de espaço</string>
     <string name="cache_title_empty_folder">Pasta vazia (%d)</string>
     <string name="cache_title_empty_folder2">Pasta vazia</string>
     <string name="cache_title_system_cache">Cache do sistema</string>
-    <string name="camera_key_action_app_title">Executar app</string>
+    <string name="camera_key_action_app_title">Executar aplicação</string>
     <string name="camera_key_action_category_title">Não é possível utilizar a Câmera</string>
     <string name="camera_key_action_none_title">Nenhuma acção</string>
     <string name="camera_key_action_setting_title">Botão MI</string>
@@ -233,7 +233,7 @@ Activar janelas flutuantes?"</string>
     <string name="common_settings">Configurações rápidas</string>
     <string name="complete_settings">Configurações gerais</string>
     <string name="confirm_download_cancelation_dialog_message">Cancelar Transferência?</string>
-    <string name="confirm_erase">eliminar</string>
+    <string name="confirm_erase">Eliminar</string>
     <string name="connect_to_internet">ligar-se à rede</string>
     <string name="connected_wifi">Wi-Fi Ligada</string>
     <string name="credentials_configure_lock_screen_hint">É necessário configurar PIN ou palavra-passe para o ecrã de bloqueio antes de usar o armazenamento de credenciais.</string>
@@ -286,7 +286,7 @@ Esta configuração afecta todos os utilizadores do telefone."</string>
     <string name="device_memory">RAM</string>
     <string name="device_miui_version">Versão da MIUI</string>
     <string name="device_name">Nome do dispositivo</string>
-    <string name="device_name_input_error">Não foi possível Guardar nome do dispositivo</string>
+    <string name="device_name_input_error">Não foi possível guardar nome do dispositivo</string>
     <string name="device_name_input_hint">Escreva um nome</string>
     <string name="device_name_usage_point">Este nome será visível para outros dispositivos Bluetooth .</string>
     <string name="device_sd_memory">Cartão SD</string>
@@ -387,7 +387,7 @@ Esta configuração afecta todos os utilizadores do telefone."</string>
     <string name="empty_title_apk">Nenhum pacote de instalacção encontrado</string>
     <string name="empty_title_auto_start_list">Nenhuma aplicacção com início automático</string>
     <string name="empty_title_garbage_cache">Nenhum arquivo em cache encontrado</string>
-    <string name="empty_title_garbage_white_list">Lista de Excepções vazia</string>
+    <string name="empty_title_garbage_white_list">Lista de excepções vazia</string>
     <string name="empty_title_installed_apps">Nenhuma aplicacção encontrada</string>
     <string name="empty_title_large_files">Nenhum arquivo grande encontrado</string>
     <string name="empty_title_perm_apps">Nenhuma aplicacção no gestor de permissões</string>
@@ -404,10 +404,10 @@ Esta configuração afecta todos os utilizadores do telefone."</string>
     <string name="enable_wifi_display">Activar ecrã Wi-Fi</string>
     <string name="equalizer">Equalizador</string>
     <string name="erase_application">eliminar Aplicações</string>
-    <string name="erase_application_description">eliminar Aplicações transferidas</string>
+    <string name="erase_application_description">Eliminar Aplicações transferidas</string>
     <string name="erase_data">eliminar</string>
-    <string name="erase_internal_storage">eliminar conteúdo armazenado</string>
-    <string name="erase_internal_storage_description">eliminar músicas, fotos, vídeos e outros dados do utilizador</string>
+    <string name="erase_internal_storage">Eliminar conteúdo armazenado</string>
+    <string name="erase_internal_storage_description">Eliminar músicas, fotos, vídeos e outros dados do utilizador</string>
     <string name="erase_optional">Conteúdo</string>
     <string name="erase_personal_data">Dados pessoais</string>
     <string name="erase_personal_data_description">Excluir as informações da Conta Mi, dados de aplicações e configurações de sistema</string>
@@ -500,9 +500,9 @@ Esta configuração afecta todos os utilizadores do telefone."</string>
     <string name="hints_handle_item_text_risk">Riscos: %d</string>
     <string name="hints_handle_item_text_safe">Seguro</string>
     <string name="hints_handle_item_text_virus">Vírus: %d</string>
-    <string name="hints_install_apps_interval">usado há %d dias</string>
-    <string name="hints_install_apps_new">nunca usado</string>
-    <string name="hints_install_apps_risk">risco detectado</string>
+    <string name="hints_install_apps_interval">Usado há %d dias</string>
+    <string name="hints_install_apps_new">Nunca usado</string>
+    <string name="hints_install_apps_risk">Risco detectado</string>
     <string name="hints_install_apps_today">usado hoje</string>
     <string name="hints_install_apps_virus">vírus detectado</string>
     <string name="hints_installed_apps_header_left">Aplicações transferidas: %d</string>
@@ -591,7 +591,7 @@ Esta configuração afecta todos os utilizadores do telefone."</string>
     <string name="last_checked_default">Última verificacção foi há %s dias</string>
     <string name="later">Reiniciar depois</string>
     <string name="launching_cit">Iniciando CIT</string>
-    <string name="launching_pho">Carregando informações do telefone, aguarde.</string>
+    <string name="launching_pho">A carregar informações do telefone, aguarde.</string>
     <string name="launching_rep">Enviando relatório…</string>
     <string name="led_colors_summary">Notificações</string>
     <string name="led_frequence_summary">Defina o intervalo com que o LED pisca</string>
@@ -609,7 +609,7 @@ Esta configuração afecta todos os utilizadores do telefone."</string>
     <string name="lock_screen_unlock_show">Ignorar deslizar a ecrã</string>
     <string name="lock_screen_unlock_show_summary">Ir diretamente para a ecrã inicial ou ecrã de palavra-passe ao Activar a ecrã</string>
     <string name="lock_settings_common_title">Configurações de bloqueio</string>
-    <string name="lock_settings_picker_settings">Definir bloqueio de ecrã</string>
+    <string name="lock_settings_picker_settings">Defenir bloqueio de ecrã</string>
     <string name="lockpassword_choose_your_pin_header">Escolha seu PIN</string>
     <string name="lockpassword_confirm_pins_dont_match">Os PINs não correspondem</string>
     <string name="lockpassword_confirm_your_pin_header">Confirme seu PIN</string>
